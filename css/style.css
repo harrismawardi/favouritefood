@@ -4,3 +4,6 @@ html, body {
     padding: 0px;
 }
 
+footer {
+    border-width: 10px !important;
+}
