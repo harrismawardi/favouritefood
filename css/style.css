@@ -1,9 +1,20 @@
 html, body {
     margin: 0px;
     height: 100%;
-    padding: 0px;
+
 }
 
 footer {
     border-width: 10px !important;
+}
+
+#method li {
+    font-size: 1rem;
+}
+#ingredients ul, li {
+    font-size: 0.8rem;
+    padding-left: 15px;
+}
+#recipe-summary p {
+    font-size: 0.8rem;
 }
